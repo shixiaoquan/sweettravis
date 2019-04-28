@@ -1,0 +1,27 @@
+{
+  "name": "sweettravis",
+  "version": "1.0.0",
+  "description": "a demo program to test travis ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixiaoquan/sweettravis.git"
+  },
+  "keywords": [
+    "travis",
+    "nodejs"
+  ],
+  "author": "shiquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shixiaoquan/sweettravis/issues"
+  },
+  "homepage": "https://github.com/shixiaoquan/sweettravis#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
